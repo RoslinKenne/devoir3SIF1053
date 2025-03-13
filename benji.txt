@@ -1,0 +1,3 @@
+Le fichier benji.raw est trop gros avec ses 1690 lignes et ses 1409 colonnes 
+donc ce fichier prend environ une heure a être transféré d'une machine à 
+une autre donc pour le tp4 faite le transfert de ce fichier texte benji.txt
